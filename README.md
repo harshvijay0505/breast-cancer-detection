@@ -5,6 +5,7 @@ This is a small project to test custom algorithms on the dataset for breast canc
 This is Wisconsin Dataset for breast cancer but you will find it inside the root folder of this project.
 
 # Install
+    Install Jupyter Notebook
     Supported Python version
          - Python version used in this project: 3.5+
 
@@ -13,7 +14,7 @@ Pandas 0.18.0
 Numpy 1.10.4
 Matplotlib 1.5.1
 Scikit-learn 0.17.1
-seaborn 
+Seaborn 
 # Code
 Each algorithm tested (or version of it) has its own separate .ipynb file. Each file has its name to tell you what algorithm is used.
 
