@@ -13,18 +13,9 @@ Pandas 0.18.0
 Numpy 1.10.4
 Matplotlib 1.5.1
 Scikit-learn 0.17.1
+seaborn 
 # Code
 Each algorithm tested (or version of it) has its own separate .ipynb file. Each file has its name to tell you what algorithm is used.
 
 # Run
 To run this project you will need some software, like Anaconda, which provides support for running .ipynb files (Jupyter Notebook).
-
-After making sure you have that:
-
-For example if yu want to test vectorized version of KNN you should execute one of these 2 lines in your terminal:
-
-ipython notebook KNN - Vectorized.ipynb
-
-or
-
-jupyter notebook KNN - Vectorized.ipynb
